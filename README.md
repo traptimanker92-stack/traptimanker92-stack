@@ -1,24 +1,151 @@
-<h1 align="center">Hi 👋, I'm Tarpti Manker</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=traptimanker92-stack&label=Profile%20views&color=0e75b6&style=flat" alt="traptimanker92-stack" /> </p>
+<!-- ===================== HEADER ===================== -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=traptimanker92-stack" alt="traptimanker92-stack" /></a> </p>
+<div align="center">
 
-- 🌱 I’m currently learning **Backend**
+  <h1>Hi 👋, I'm Tarpti Manker</h1>
 
-- 💬 Ask me about **Frontend**
+  <h3>🎨 Frontend Developer | Backend Learner | Artist from India 🇮🇳</h3>
 
-- 📫 How to reach me **traptimanker93@gmail.com**
+  <p>
+    I love building beautiful web experiences, learning new technologies,
+    and expressing creativity through code and sketches.
+  </p>
 
-- ⚡ Fun fact **I am an artist and I enjoy creating sketches**
+  <img src="https://komarev.com/ghpvc/?username=traptimanker92-stack&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/trapti manker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trapti manker" height="30" width="40" /></a>
-</p>
+  <br/><br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+  <a href="https://github.com/traptimanker92-stack">
+    <img src="https://img.shields.io/github/followers/traptimanker92-stack?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers"/>
+  </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=traptimanker92-stack&show_icons=true&locale=en" alt="traptimanker92-stack" /></p>
+  <a href="https://github.com/traptimanker92-stack?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-blue?style=for-the-badge&logo=github" alt="Explore repositories"/>
+  </a>
+
+</div>
+
+---
+
+<!-- ===================== ABOUT ME ===================== -->
+
+## 💫 About Me
+
+- 💻 I'm a passionate **Frontend Developer** from India.
+- 🌱 Currently learning **Backend Development**.
+- 🎨 I'm an artist who enjoys creating sketches.
+- 💬 Ask me about **HTML, CSS, JavaScript, and React**.
+- 🚀 I enjoy building projects and learning by doing.
+- 📧 Reach me at **[traptimanker93@gmail.com](mailto:traptimanker93@gmail.com)**.
+- ⚡ Fun fact: I love mixing creativity with technology!
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 🛠️ Languages & Technologies
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,python,mysql,postgres,gcp,git,github,vscode&perline=7" alt="My technologies"/>
+
+</div>
+
+---
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=traptimanker92-stack&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=traptimanker92-stack&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+  <img width="70%" src="https://streak-stats.demolab.com/?user=traptimanker92-stack&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <a href="https://github.com/traptimanker92-stack">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=traptimanker92-stack&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+  </a>
+
+</div>
+
+---
+
+<!-- ===================== ACHIEVEMENTS ===================== -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=traptimanker92-stack&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+  <a href="https://github.com/traptimanker92-stack?tab=repositories">
+    <img width="80%" src="https://img.shields.io/badge/🚀_Explore_My_Projects-View_on_GitHub-7C3AED?style=for-the-badge" alt="Explore projects"/>
+  </a>
+
+</div>
+
+Check out my repositories to see what I'm building and learning. Pin your best projects on your GitHub profile to make them stand out.
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+  <a href="https://github.com/traptimanker92-stack">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:traptimanker93@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 💜 Thanks for visiting my profile!
+
+  **Code 💻 | Create 🎨 | Learn 📚 | Repeat 🔁**
+
+  ⭐ Feel free to explore my repositories and connect with me!
+
+</div>
